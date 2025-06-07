@@ -59,7 +59,7 @@ Departments  E&C & Art  Student Lab  IT / Web & FTP           Staff & Student La
 Switches      & Design  & Printer    Servers & Printers         & Printer
 ```
 
-> **Note:** Replace the ASCII diagram with a detailed image at `/docs/campus-topology.png`.
+
 
 ---
 
